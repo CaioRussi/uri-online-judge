@@ -3,7 +3,7 @@ using namespace std;
 typedef pair<int,int> ii;
 typedef pair<ii,ii> iiii;
 char grid[101][105];
-int dx[]={1,0,-1,0};
+int dx[]={1,0,-1,0}; 
 int dy[]={0,1,0,-1};
 int vis[101][101][150],n,m;
 

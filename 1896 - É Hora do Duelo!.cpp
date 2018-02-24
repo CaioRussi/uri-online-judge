@@ -3,7 +3,7 @@ using namespace std;
  
 int atk[21], def[21], hab[21];
 int n,a,d,h,aa,dd,hh,cnt;
- 
+  
 bool func(int i, int A, int D, int H, int cnt){
     if(cnt>1 and A==a and D==d and H==h) return true;
     if(i==n) return false;

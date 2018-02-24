@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int n, v[101];
+int n, v[101]; 
 bool vis[101];
 
 int func(int i, int tam = 0){

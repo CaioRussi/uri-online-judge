@@ -2,7 +2,7 @@
 using namespace std;
  
 #define ll long long
- 
+  
 int main(void)
 {
     ll num, sum, ans;

@@ -4,7 +4,7 @@ using namespace std;
 #define inf 0x3f3f3f3f
  
 int n,x,y,z,w,v[201],maximo;
-int pd[201][55];
+int pd[201][55]; 
  
 int dp(int s, int f){
 	//demitir todos
